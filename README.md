@@ -66,12 +66,6 @@ The analysis reveals a significant positive correlation between ocean proximity 
 3. Legislative Analyst’s Office. 2023. California’s High Housing Costs: Causes and Consequences. Available at: [LAO Report](https://lao.ca.gov/LAOEconTax/Article/Detail/793#:~:text=Affordability%20depends%20on%20both%20the,income%20in%202022%20(%2485%2C300).)
 4. IBM. 2023. K-Nearest Neighbors (KNN). Available at: [IBM KNN](https://www.ibm.com/topics/knn#:~:text=The%20k%2Dnearest%20neighbors%20.)
 
-## Task Distribution
-- **Collecting and Preprocessing Data**: Huu Nhan Nguyen
-- **Implementing & Evaluating Linear Regression**: Raphael Luis Santos
-- **Implementing & Evaluating kNN**: Kelly Tran, Rick Liu
-- **Implementing & Evaluating Random Forest**: Amy Ionescu
-- **Algorithm Comparisons and Writing Report**: All
 
 ## Links
 - **Submission Folder**: [Google Drive](https://drive.google.com/drive/folders/1d2HzqO9fKB5uTFTcvDhWQKH6MerqTmVz?usp=sharing)
